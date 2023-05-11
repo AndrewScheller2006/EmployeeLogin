@@ -1,0 +1,191 @@
+html {
+  display: flex;
+  background-color: #3E92CC;
+}
+h1 {
+  font-size: 50px;
+  margin-bottom: 10%;
+  
+
+  
+}
+
+.form {
+  font-family: monospace;
+  margin: 0 auto;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #FFFAFF;
+  border-color: #0A2463;
+  border-width: 10px;
+  border-radius: 15px;
+  width: 50%;
+  text-align: center;
+  margin-bottom: 20%;
+  margin-top: 5%;
+}
+.form2 {
+  font-family: monospace;
+  margin: 0 auto;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #FFFAFF;
+  border-color: #0A2463;
+  border-width: 10px;
+  border-radius: 15px;
+  width: 50%;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.textboxes input[type=text] {
+  height: 45px;
+  width: 60%;
+  border-radius: 8px;
+  margin-bottom: 10%;
+}
+
+.textboxes2 input[type=text] {
+  height: 45px;
+  width: 60%;
+  border-radius: 8px;
+}
+
+
+h3 {
+  font-size: 30px;
+  color: #0A2463;
+}
+h2 {
+  font-size: 30px;
+  color: #0A2463;
+}
+
+button {
+  background-color: #3E92CC;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  height: 60px;
+  width: 200px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+
+}
+button:hover {
+  background-color: white;
+  color: #3E92CC;
+}
+
+.bttn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+
+.bttn button {
+  margin-left: 10px;
+}
+
+.bttn button:first-child {
+  margin-left: 0;
+}
+
+.bttn {
+  gap: 30px;
+}
+
+.createbttn {
+  margin-top: 80px;
+  
+}
+
+.Tabs {
+  font-family: monospace;
+  margin: 0 auto;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #0A2463;
+  border-color: black;
+  border-width: 10px;
+  border-radius: 15px;
+  width: 50%;
+  text-align: center;
+  margin-bottom: 20%;
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Tabs p {
+  color: white;
+  margin-left: 20%;
+}
+
+.styled {
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.bttn2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-top: 5%;
+  
+}
+.bttn2 a {
+  text-decoration: none;
+}
+
+
+a:hover {
+  color: #3E92CC; 
+}
+.Space{
+  margin-top: 40%;
+}
+.Title {
+  margin-bottom: 5%;
+}
+
+.Tabs button {
+  height: 40px;
+  width: 80px;
+  margin-right: 30px;
+  font-size: 15px;
+}
+.stack button{
+  display: block;
+  margin-bottom: 10px; 
+}
+.stack p{
+  margin-left: 15px;
+  font-size: 14px;
+  font-family: monospace;
+}
+.stack2 p{
+  margin-left: 15px;
+  font-size: 14px;
+  font-family: monospace;
+}
+
+.bigtxt p {
+  font-size: 20px;
+  font-family: monospace;
+}
